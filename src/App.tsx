@@ -3,7 +3,7 @@ import { TonConnectButton } from "@tonconnect/ui-react";
 import { useMainContract} from "./hooks/useMainContract.ts";
 import { useTonConnect } from "./hooks/useTonConnect.ts";
 
-// https://github.com/AH1N/first_contract_front.git
+// https://ah1n.github.io/first_contract_front/
 //kQCa_u_WD8cXfAXAlgEroXx2kalBD0igEm7aXjANgDvtwpUk - адрес контракта
 
 function App() {
