@@ -6,4 +6,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react(), nodePolyfills()],
     base: '/first_contract_front/',
-})
+});
